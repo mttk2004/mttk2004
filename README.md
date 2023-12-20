@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I am Kiet Mai Tran Tuan</h1>
+<h1 align="center">Hello👋, I am Mai Trần Tuấn Kiệt</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mttk2004&label=Profile%20views&color=0e75b6&style=flat" alt="mttk2004" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advanced CSS and Sass**
 
-- 📫 How to reach me **mttk2004@gmail.com**
+- 📫 How to reach me **mttk2004@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

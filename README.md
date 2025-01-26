@@ -10,7 +10,7 @@ I have been learning to code for 3 years...
 * 🖥️  See my portfolio at [My Portfolio](http://myapp.com)
 * ✉️  You can contact me at [mttk2004@hotmail.com](mailto:mttk2004@hotmail.com)
 * 🚀  I'm currently working on [My App](http://myapp.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Laravel
 
 ### Skills
 

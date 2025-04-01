@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 Web Developer
+
 -------------
 
 I have been learning to code for 3 years...
@@ -14,4 +15,11 @@ I have been learning to code for 3 years...
 
 -----------
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mttk2004&show_icons=true&theme=dracula)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?
+username=mttk2004&theme=dracula"  alt=""/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?
+username=mttk2004&layout=compact&langs_count=8&card_width=320&theme=dracula"  alt=""/>
+</a>

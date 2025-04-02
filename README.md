@@ -15,12 +15,11 @@ I have been learning to code for 3 years...
 
 -----------
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<span>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?
 username=mttk2004&theme=dracula"/>
-</a>
+</span>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?
-username=mttk2004&layout=compact&langs_count=8&card_width=320&theme=dracula"/>
-</a>
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mttk2004&layout=compact&langs_count=8&card_width=320&theme=dracula"/>
+</span>

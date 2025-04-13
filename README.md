@@ -18,4 +18,4 @@ I have been learning to code for 3 years...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mttk2004&show_icons=true&theme=dracula)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mttk2004&theme=react-dark)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mttk2004&theme=dracula)

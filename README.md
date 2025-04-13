@@ -17,3 +17,5 @@ I have been learning to code for 3 years...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mttk2004&layout=pie&theme=transparent&langs_count=10)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mttk2004&show_icons=true&theme=transparent)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mttk2004)](https://github.com/ashutosh00710/github-readme-activity-graph)

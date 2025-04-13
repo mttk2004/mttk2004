@@ -14,6 +14,12 @@ I have been learning to code for 3 years...
 
 -------------
 
+## 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,laravel,react,mysql,postgresql)
+
+-------------
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mttk2004&layout=pie&theme=dracula&langs_count=10)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mttk2004&show_icons=true&theme=dracula)

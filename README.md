@@ -16,7 +16,7 @@ I have been learning to code for 3 years...
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,java,react,laravel,spring-boot,mysql,postgresql,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,java,react,laravel,spring,mysql,postgresql,git)
 
 -------------
 

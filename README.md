@@ -1,4 +1,4 @@
-Hello, this is Mai Trần Tuấn Kiệt
+Hello, this is Mai Trần Tuấn Kiệt 👋
 ==========================================================================================================================================
 
 
@@ -15,8 +15,11 @@ Hello, this is Mai Trần Tuấn Kiệt
 
 -------------
 
+## 🚀 About Me
+
 I have been learning to code for 3 years...
 
+* 💻  Full-stack Web Developer
 * 🌍  I'm based in Ho Chi Minh City
 * 🧠  I'm learning Laravel
 * 🖥️  See my portfolio at [My Portfolio](http://myapp.com)
@@ -37,7 +40,7 @@ I have been learning to code for 3 years...
   </p>
 
   <a href="https://github.com/mttk2004?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-000000?style=for-the-badge&logoColor=98D6F3&logo=repo"/>
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-000000?style=for-the-badge&logoColor=98D6F3&color=1D252A&logo=repo"/>
   </a>
 </details>
 

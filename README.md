@@ -22,7 +22,7 @@ I have been learning to code for 3 years...
 * 💻  Full-stack Web Developer
 * 🌍  I'm based in Ho Chi Minh City
 * 🧠  I'm learning Laravel
-* 🖥️  See my portfolio at [My Portfolio](http://myapp.com)
+* 🖥️  See my portfolio at [My Terminal-inspired Portfolio](https://mttk2004.uk)
 * ✉️  You can contact me at [mttk2004@hotmail.com](mailto:mttk2004@hotmail.com)
 
 -------------

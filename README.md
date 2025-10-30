@@ -37,9 +37,6 @@ I have been learning to code for 3 years...
     <a href="https://github.com/mttk2004/phpure">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=mttk2004&repo=phpure&bg_color=1D252A&title_color=98D6F3&text_color=ccc&icon_color=98D6F3&hide_border=true&show_owner=true&description_lines_count=2" alt="phpure">
     </a>
-    <a href="https://github.com/mttk2004/auracrypt2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mttk2004&repo=auracrypt2&bg_color=1D252A&title_color=98D6F3&text_color=ccc&icon_color=98D6F3&hide_border=true&show_owner=true&description_lines_count=2" alt="auracrypt2">
-    </a>
   </p>
 
   <a href="https://github.com/mttk2004?tab=repositories&sort=stargazers">
